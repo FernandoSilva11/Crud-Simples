@@ -1,0 +1,14 @@
+C:\Users\Fernando\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Fernando\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Fernando\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Fernando\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+C:\Users\Fernando\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Google.Protobuf.dll
+C:\Users\Fernando\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Fernando\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MySql.Data.xml
+C:\Users\Fernando\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Fernando\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Fernando\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Fernando\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\Fernando\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Fernando\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
